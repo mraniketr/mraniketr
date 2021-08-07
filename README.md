@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mraniketr
 - 👀 I’m interested in Full Stack Dev, Data Science Jobs
-- 🌱 I’m currently learning Java Spring Boot, MERN Stack, Data Science
+- 🌱 I’m currently learning Java Spring, MERN Stack, Data Science
 - 📫 How to reach me - im.aniket.rai@gmail.com
 
 <!---
